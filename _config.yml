@@ -1,5 +1,5 @@
 # Site settings
-title: Blog
+title: Cristhian's Blog
 
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'http://blog.cristhianescobar.com' # the base hostname & protocol for your site

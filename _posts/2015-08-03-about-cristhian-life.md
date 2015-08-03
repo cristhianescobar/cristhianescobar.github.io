@@ -5,7 +5,7 @@ date: 2015-08-03
 backgrounds:
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/code-screen.jpg
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/the-desk.jpg
-thumb: https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/coding.jpg
+thumb: https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/5/005/04c/25f/06fd323.jpg
 categories: android developer
 tags: cristhian android engineer
 ---
@@ -15,7 +15,7 @@ Let me tell you a little bit about myself. I am from Cuernavaca, Morelos Mexico,
 when I was about 14. Unlike other people that come to this country, I came here without any prior any prior
 knowledge of the english language. within a year I found myself fitting into the culture.
 
-\tWhat I really want to tell you is how my interest for computers started. In 2006 I bought my first computer, not
+What I really want to tell you is how my interest for computers started. In 2006 I bought my first computer, not
 from the store but at a garage sale since that was all I could afford. I bought the computer because I wanted to
 type out my homework to make it more presentable. Soon after I had enough money saved for a printer and bought it,
 right when I was installing it, a message showed up on the screen indicating I needed more space. I took it to a
