@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About Cristhian"
-date: 08-03-2015
+date: 2015-08-03
 backgrounds:
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/code-screen.jpg
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/the-desk.jpg
