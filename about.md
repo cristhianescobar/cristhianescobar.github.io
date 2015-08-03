@@ -1,9 +1,8 @@
 ---
 layout: page
 title: About Cristhian
-permalink: /about/
 backgrounds:
-  - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/code-screen.jpg
+  - https://scontent-lax1-1.xx.fbcdn.net/hphotos-xfp1/t31.0-8/202134_4474313387024_606567173_o.jpg
 ---
 
 ## What got me started!

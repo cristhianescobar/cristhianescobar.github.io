@@ -5,7 +5,7 @@ date: 2015-08-03
 backgrounds:
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/code-screen.jpg
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/the-desk.jpg
-thumb: https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/5/005/04c/25f/06fd323.jpg
+thumb: https://scontent-lax1-1.xx.fbcdn.net/hphotos-xpf1/t31.0-8/10329955_10203832429562257_2421763519829526689_o.jpg
 categories: android developer
 tags: cristhian android engineer
 ---
